@@ -7,4 +7,4 @@ class Solution(object):
         if list_x == reverse_list_x:
             return True
         else:
-            False
+            return False
